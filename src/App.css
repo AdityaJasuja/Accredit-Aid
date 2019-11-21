@@ -20,3 +20,31 @@
 .App-link {
   color: #09d3ac;
 }
+
+
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+#signout{
+  float: right;
+  position: relative;
+  color:white;
+  background-color: #282c34;
+}
+
+#homepage{
+  align-content: flex-end;
+  position: relative;
+  float:right;
+}
+
+.homemenu{
+  align-content: center;
+  
+}
+
+.col-md-6{
+ position: relative;
+ 
+}
