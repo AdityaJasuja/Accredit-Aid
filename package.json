@@ -16,7 +16,7 @@
     "react-tabs": "^3.0.0",
     "react-tooltip": "^3.11.1",
     "reactstrap": "^8.0.1",
-    "xlsx": "^0.15.1"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
